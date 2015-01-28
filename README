@@ -1,0 +1,9 @@
+Windows Users - goto bin folder and execute mp3tag.
+Linux Users - Use Codeblocks and open the ID3v2.x cbp file.
+		    - Clean and rebuild.
+
+For Building the mp3tag :-
+
+1. You can either use Codeblocks or GNU make for building the Executable.
+2. Make Sure that you use C++11 flag.
+3. Contribute. 
